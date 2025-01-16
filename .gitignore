@@ -1,1 +1,3 @@
-./nepali_lora_weights/*
+nepali_lora_weights/
+nepali_lora_weights_ver2/
+fast-vocabulary-transfer/
